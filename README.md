@@ -8,10 +8,14 @@
 # 📧 Blog , Portfolio&Notion
 
 <a href="https://pows.tistory.com/">
- <img src="https://img.shields.io/badge/Tistory Blog-EA5220?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pows.tistory.com/"></a>
+ <img src="https://img.shields.io/badge/Tistory%20Blog-EA5220?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pows.tistory.com/"></a>
 
 <a href="https://www.notion.so/KIM-955475f3472847fe90d12521e7611933">
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
+
+# 최근 관심 기술
+
+
 
 
 # 💻 TECH STACK
@@ -20,9 +24,9 @@
 
 ### ⚙️ Back ⚙️
 <p>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   
 </p>
