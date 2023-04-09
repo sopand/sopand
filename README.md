@@ -6,7 +6,7 @@
 
 ## 📧 Blog,Portfolio
 <a href="https://www.notion.so/KIM-955475f3472847fe90d12521e7611933">
-         <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
+         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
 <a href="https://pows.tistory.com/">
  <img src="https://img.shields.io/badge/Tistory-EA5220?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pows.tistory.com/"></a>
 
