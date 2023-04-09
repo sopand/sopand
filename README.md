@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=OpenJDK&logoColor=white">
 </span>
 
 <span>
