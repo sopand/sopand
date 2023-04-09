@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/Mybatis-007396?style=for-the-badge&logo=Mybatis&logoColor=white">
+ <img src="https://img.shields.io/badge/Mybatis-E34F26?style=for-the-badge&logo=Mybatis&logoColor=white">
 </p>
 
 ### 🛠️ Tool 🛠️
