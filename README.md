@@ -15,7 +15,7 @@
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
 <br/>
 
-# 최근 관심 기술
+# 📚 최근 공부중인 기술
 <p><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white"></p>
 <p><img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></p>
 
