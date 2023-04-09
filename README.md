@@ -6,23 +6,30 @@
 
 
 # 📧 Blog , Portfolio&Notion
- <br/>
-
+<p>
 <a href="https://pows.tistory.com/">
  <img src="https://img.shields.io/badge/Tistory%20Blog-EA5220?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pows.tistory.com/"></a>
 
 <a href="https://www.notion.so/KIM-955475f3472847fe90d12521e7611933">
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
+ </p>
+<br/>
 <br/>
 
+
 # 📚 최근 공부중인 기술
-<p><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white"></p>
-<p><img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></p>
+<p>
+ <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white">
+ <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+</p>
+
+<br/>
+<br/>
 
 
 # 💻 TECH STACK
 
-### ⚙️ Back ⚙️
+### ⚙️ Back
 <p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -31,7 +38,7 @@
 </p>
 <br/>
 
-### 🖼️ View , Front 🖼️
+### 🖼️ View , Front
 <p>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -42,7 +49,7 @@
 <br/>
 
 
-### 💾 DB , ORM 💾
+### 💾 DB , ORM
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -51,7 +58,7 @@
 </p>
 <br/>
 
-### 🛠️ Tool 🛠️
+### 🛠️ Tool
 <p>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
@@ -61,7 +68,7 @@
 </p>
 <br/>
 
-### 🛠️ IDE 🛠️
+### 🛠️ IDE
 <p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/Intelli j-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
