@@ -13,6 +13,12 @@
 <a href="https://interesting-gorilla-ae9.notion.site/KIM-955475f3472847fe90d12521e7611933">
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
  </p>
+
+ ##### 📚 기술 블로그를 티스토리에서 노션으로 옮기는중!! 최근 공부 정리는 노션에 있습니다.
+ <p>
+  <a href="https://interesting-gorilla-ae9.notion.site/CS-a0cc28cafdfc46eea2d66a1a2ad65cb9">
+         <img src="https://img.shields.io/badge/My%20Tech%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
+ </p>
 <br/>
 <br/>
 
