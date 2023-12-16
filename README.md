@@ -25,8 +25,8 @@
 
 # 📚 최근 공부중인 기술
 <p>
- <img src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D">
- <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=#7F52FF">
+ <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=#339933">
+ 
 </p>
 
 <br/>
