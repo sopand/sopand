@@ -11,12 +11,12 @@
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
  </p>
 
- ##### 📚 Tech Blog
+ ##### 📚 Tech Blog , Tech Repostory
  <p>
   <a href="https://interesting-gorilla-ae9.notion.site/CS-a0cc28cafdfc46eea2d66a1a2ad65cb9">
          <img src="https://img.shields.io/badge/My%20Tech%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
   <a href="https://www.notion.so/84d212729c6642d08230c878f731a38d?v=07545027b47245629e080f689a029bc4">
-         <img src="https://img.shields.io/badge/My%20Tech%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
+         <img src="https://img.shields.io/badge/Tech%20Repository-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
  </p>
 <br/>
 <br/>
