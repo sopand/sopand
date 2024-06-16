@@ -7,16 +7,15 @@
 
 # 📧 Blog , Portfolio&Notion
 <p>
-<a href="https://pows.tistory.com/">
- <img src="https://img.shields.io/badge/Tistory%20Blog-EA5220?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pows.tistory.com/"></a>
- 
 <a href="https://interesting-gorilla-ae9.notion.site/KIM-955475f3472847fe90d12521e7611933">
          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
  </p>
 
- ##### 📚 기술 블로그를 티스토리에서 노션으로 옮기는중!! 최근 공부 정리는 노션에 있습니다.
+ ##### 📚 Tech Blog
  <p>
   <a href="https://interesting-gorilla-ae9.notion.site/CS-a0cc28cafdfc46eea2d66a1a2ad65cb9">
+         <img src="https://img.shields.io/badge/My%20Tech%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
+  <a href="https://www.notion.so/84d212729c6642d08230c878f731a38d?v=07545027b47245629e080f689a029bc4">
          <img src="https://img.shields.io/badge/My%20Tech%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
  </p>
 <br/>
