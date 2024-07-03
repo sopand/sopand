@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sopand&layout=compact&theme=midnight-purple)
 
 
- ##### 📚 Tech Blog , Tech Repostory
+ # 📚 Tech Blog , Tech Repostory
  <p>
   <a href="https://interesting-gorilla-ae9.notion.site/CS-a0cc28cafdfc46eea2d66a1a2ad65cb9">
          <img src="https://img.shields.io/badge/My%20Tech%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
