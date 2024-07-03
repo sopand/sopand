@@ -5,11 +5,6 @@
 ![sopand's github stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=sopand&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sopand&layout=compact&theme=midnight-purple)
 
-# 📧 Blog , Portfolio&Notion
-<p>
-<a href="https://interesting-gorilla-ae9.notion.site/KIM-955475f3472847fe90d12521e7611933">
-         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/KIM-955475f3472847fe90d12521e7611933"></a>
- </p>
 
  ##### 📚 Tech Blog , Tech Repostory
  <p>
