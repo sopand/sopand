@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-
+<!--
 # 💻 TECH STACK
 
 ### ⚙️ Back
@@ -78,5 +78,6 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/Intelli j-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </p>
+-->
 
 
