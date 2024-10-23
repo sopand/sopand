@@ -1,11 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyu%20Git&fontSize=90)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsopand%2Fhit-counter&count_bg=%23403DC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EB%82%98%EC%9D%98+Git+%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>
 
 ![sopand's github stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=sopand&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sopand&layout=compact&theme=midnight-purple)
 
-
+<!--
  # 📚 Tech Blog , Tech Repostory
  <p>
   <a href="https://interesting-gorilla-ae9.notion.site/CS-a0cc28cafdfc46eea2d66a1a2ad65cb9">
@@ -28,7 +27,7 @@
 <br/>
 <br/>
 
-<!--
+
 # 💻 TECH STACK
 
 ### ⚙️ Back
